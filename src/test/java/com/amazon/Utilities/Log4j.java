@@ -1,4 +1,4 @@
-package utilities;
+package com.amazon.Utilities;
 
 import org.apache.log4j.Logger;
 

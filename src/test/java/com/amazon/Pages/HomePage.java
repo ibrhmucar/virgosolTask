@@ -8,6 +8,11 @@ public class HomePage extends  BasePage{
     @FindBy (id = "sp-cc-accept")
     public WebElement acceptCookiesButton;
 
+    @FindBy (id = "nav-link-accountList")
+    public WebElement loginButtonLink;
+
+
+
 
 
 

@@ -1,6 +1,6 @@
-package com.n11.pages;
+package com.amazon.Pages;
 
-import com.n11.utilities.Driver;
+import com.amazon.Utilities.Driver;
 import org.openqa.selenium.support.PageFactory;
 
 

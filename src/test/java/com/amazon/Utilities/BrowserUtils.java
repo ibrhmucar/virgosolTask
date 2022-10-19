@@ -1,10 +1,12 @@
-package com.useinsider.Utilities;
+package com.amazon.Utilities;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -62,4 +64,16 @@ public class BrowserUtils {
         ((JavascriptExecutor) Driver.get()).executeScript("arguments[0].scrollIntoView(true);", element);
     }
 
+    public static String captureScreenShot() {
+        TakesScreenshot takesScreenshot = (TakesScreenshot) Driver.get();
+        String basecode64 = takesScreenshot.getScreenshotAs(OutputType.BASE64);
+        return basecode64;
+    }
+
+    public static void hover(WebElement element) {
+        Actions actions = new Actions(Driver.get());
+        actions.moveToElement(element).perform();
+        BrowserUtils.waitFor(3);
+
+    }
 }

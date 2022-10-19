@@ -1,0 +1,29 @@
+2022-10-19 18:23:13,983yyyy-MM-dd HH:mm:ss} INFO  Log4j:10 - Test is Starting...
+2022-10-19 18:23:13,994yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Giriş yapıldı ve sayfa kontrol edildi.
+2022-10-19 18:24:11,535yyyy-MM-dd HH:mm:ss} INFO  Log4j:15 - Test is Ending...
+2022-10-19 18:32:58,122yyyy-MM-dd HH:mm:ss} INFO  Log4j:10 - Test is Starting...
+2022-10-19 18:32:58,137yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Giriş yapıldı ve sayfa kontrol edildi, çerezler kabul edildi
+2022-10-19 18:33:03,947yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Siteye login olundu ve kontrol edildi.
+2022-10-19 18:33:15,454yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Virgosol Liste adında yeni bir liste oluşturuldu.
+2022-10-19 18:33:15,575yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Katagoriler kısmından Bilgisayarlar seçeneği seçildi ve seçildiği kontrol edildi.
+2022-10-19 18:33:19,894yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Arama kısmına msi yazıldı ve arama yapıldığı kontrol edildi.
+2022-10-19 18:33:22,053yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Arama sonuçlarından 2'inci sayfa seçildi ve kontrol edildi.
+2022-10-19 18:33:33,112yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - 2'inci ürün Virgosol Liste'ye eklendi ve eklendiği kontrol edildi.
+2022-10-19 18:33:41,393yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Virgosol Liste sayfası açıldı ve kontrol edildi.
+2022-10-19 18:33:41,907yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Eklenen ürün Virgosol Liste'den silindi ve silindiği kontrol edildi.
+2022-10-19 18:33:46,197yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Oluşturulan liste silindi.
+2022-10-19 18:33:52,063yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Çıkış işlemi başarı ile yapıldı ve kontrol edildi.
+2022-10-19 18:33:52,063yyyy-MM-dd HH:mm:ss} INFO  Log4j:15 - Test is Ending...
+2022-10-19 18:41:13,756yyyy-MM-dd HH:mm:ss} INFO  Log4j:10 - Test is Starting...
+2022-10-19 18:41:13,766yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Giriş yapıldı ve sayfa kontrol edildi, çerezler kabul edildi
+2022-10-19 18:41:19,573yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Siteye login olundu ve kontrol edildi.
+2022-10-19 18:41:31,048yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Virgosol Liste adında yeni bir liste oluşturuldu.
+2022-10-19 18:41:31,149yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Katagoriler kısmından Bilgisayarlar seçeneği seçildi ve seçildiği kontrol edildi.
+2022-10-19 18:41:35,607yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Arama kısmına msi yazıldı ve arama yapıldığı kontrol edildi.
+2022-10-19 18:41:37,798yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Arama sonuçlarından 2'inci sayfa seçildi ve kontrol edildi.
+2022-10-19 18:41:49,015yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - 2'inci ürün Virgosol Liste'ye eklendi ve eklendiği kontrol edildi.
+2022-10-19 18:41:57,051yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Virgosol Liste sayfası açıldı ve kontrol edildi.
+2022-10-19 18:41:57,568yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Eklenen ürün Virgosol Liste'den silindi ve silindiği kontrol edildi.
+2022-10-19 18:42:01,841yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Oluşturulan liste silindi.
+2022-10-19 18:42:07,738yyyy-MM-dd HH:mm:ss} INFO  Log4j:20 - Çıkış işlemi başarı ile yapıldı ve kontrol edildi.
+2022-10-19 18:42:07,739yyyy-MM-dd HH:mm:ss} INFO  Log4j:15 - Test is Ending...
