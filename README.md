@@ -1,4 +1,4 @@
-<img src="Virgosol.jpeg" width="auto"> 
+<img src="Virgosol.jpg" width="auto"> 
 
 
 
