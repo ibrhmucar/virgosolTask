@@ -1,5 +1,6 @@
+<div align="center">
 <img src="Virgosol.jpg" width="auto"> 
-
+</div>
 
 
 
