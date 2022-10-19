@@ -1,3 +1,9 @@
+<img src="Virgosol.jpeg" width="auto"> 
+
+
+
+
+
 # <h1 align="center">  Amazon Senaryosu 
 
 * https://www.amazon.com.tr/ sitesi açılır. 
